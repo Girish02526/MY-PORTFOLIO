@@ -6,7 +6,7 @@ This site showcases my projects, skills, and contact details as a **Frontend Dev
 ---
 
 ## 🚀 Live Portfolio
-👉 **View Here:**
+👉 **View Here:** https://girish02526.github.io/MY-PORTFOLIO/
 
 ---
 
